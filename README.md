@@ -1,9 +1,7 @@
 
 # Messaging Application
 
-![Login](/screenshoots/login.png?raw=true "Login")
-![Signup](/screenshoots/signup.png?raw=true "Signup")
-![Main](/screenshoots/main.png?raw=true "Main")
+
 
 
 ## Run Locally
@@ -51,4 +49,7 @@ Start the django server
   python manage.py runserver
 ```
 
+![Login](/screenshoots/login.png?raw=true "Login")
+![Signup](/screenshoots/signup.png?raw=true "Signup")
+![Main](/screenshoots/main.png?raw=true "Main")
   
